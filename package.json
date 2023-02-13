@@ -1,0 +1,15 @@
+{
+  "name": "board-game",
+  "version": "1.0.0",
+  "description": "Board Game Web with Tailwind CSS and Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/css/tailwind.css -o ./public/css/style.css -w"
+  },
+  "keywords": [],
+  "author": "Zacky Achmad",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
